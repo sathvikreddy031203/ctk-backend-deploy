@@ -22,7 +22,7 @@ export const createBooking = async (req, res) => {
       eventDate: new Date(eventDate),
       bookingDate
     });
-    // console.log(newBooking);
+    console.log(newBooking);
     // Update the event's available tickets
     const event = await Event.findById(eventId);
     if (!event) {
