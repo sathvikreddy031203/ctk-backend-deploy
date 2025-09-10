@@ -6179,3 +6179,7 @@
 2025-09-09 15:57:20 [INFO]:get event details is successfully sent
 2025-09-09 16:03:12 [INFO]:Connection is established for MONGO_DB
 2025-09-09 16:03:12 [INFO]:Connection is established for PORT
+2025-09-10 11:17:05 [INFO]:Connection is established for MONGO_DB
+2025-09-10 11:17:05 [INFO]:Connection is established for PORT
+2025-09-10 12:28:27 [INFO]:Connection is established for MONGO_DB
+2025-09-10 12:28:27 [INFO]:Connection is established for PORT
